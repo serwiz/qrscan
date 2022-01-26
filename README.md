@@ -1,1 +1,3 @@
-# qrscan
+# QRscan
+
+## Development
