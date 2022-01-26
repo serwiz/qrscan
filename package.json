@@ -1,0 +1,23 @@
+{
+  "name": "qrscan",
+  "version": "1.0.0",
+  "description": "Build a projet for QR code authentication inside vidéo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serwiz/qrscan.git"
+  },
+  "author": "serwiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serwiz/qrscan/issues"
+  },
+  "homepage": "https://github.com/serwiz/qrscan#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0",
+    "jsqr": "^1.4.0"
+  }
+}
